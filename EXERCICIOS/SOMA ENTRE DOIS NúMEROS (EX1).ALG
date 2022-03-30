@@ -1,20 +1,20 @@
-Algoritmo "Soma entre dois números (Ex1)"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "Soma entre dois nÃºmeros (Ex1)"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral
-// Descrição   : Soma dois números
+// DescriÃ§Ã£o   : Soma dois nÃºmeros
 // Autor(a)    : Thiago
 // Data atual  : 29/03/2022
 Var
-   n1, n2: Inteiro
+   x, y: Inteiro
    soma: inteiro
 
 Inicio
-   Escreval("Escolha dois números:")
-   Escreval("Primeiro número")
-   Leia(n1)
-   Escreval("Segundo número")
-   Leia(n2)
-   soma <- n1 + n2
-   Escreval("A soma entre os números ", n1, " e", n2, " é igual à:", soma )
+   Escreval("Escolha dois nÃºmeros:")
+   Escreval("Primeiro nÃºmero")
+   Leia(x)
+   Escreval("Segundo nÃºmero")
+   Leia(y)
+   soma <- x + y
+   Escreval("A soma entre os nÃºmeros ", x, " e", y, " Ã© igual Ã :", soma )
 
 Fimalgoritmo
