@@ -6,7 +6,7 @@ Algoritmo "Soma entre dois números (Ex1)"
 // Data atual  : 29/03/2022
 Var
    x, y: Inteiro
-   soma: inteiro
+   total: inteiro
 
 Inicio
    Escreval("Escolha dois números:")
@@ -14,7 +14,7 @@ Inicio
    Leia(x)
    Escreval("Segundo número")
    Leia(y)
-   soma <- x + y
-   Escreval("A soma entre os números ", x, " e", y, " é igual à:", soma )
+   total <- x + y
+   Escreval("A soma entre os números ", x, " e", y, " é igual à:", total )
 
 Fimalgoritmo
