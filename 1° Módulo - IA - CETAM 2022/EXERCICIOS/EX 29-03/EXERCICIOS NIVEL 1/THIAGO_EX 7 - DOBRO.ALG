@@ -3,12 +3,14 @@ Algoritmo "semnome"
 // Professor   : Hiram Amaral 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 31/03/2022
+// Data atual  : 01/04/2022
 Var
-
-
+// Seção de Declarações das variáveis 
+valor, dobro: inteiro
 
 Inicio
-escreval("Olá Mundo!")
-
+Escreval("Digite um número inteiro: ")
+leia(valor)
+dobro <- valor * 2
+Escreva("O dobro desse inteiro é: ", dobro)
 Fimalgoritmo
