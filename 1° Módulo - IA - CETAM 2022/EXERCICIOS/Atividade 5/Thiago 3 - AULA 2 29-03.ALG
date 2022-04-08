@@ -10,6 +10,8 @@ Var
 
 combustivel, distancia: Real
 consumo_medio: Real
+valor_gasosa: real 
+valor_dinheiro : real
 
 Inicio
 Escreval("Distacia total percorrida no trajeto em Km:")
@@ -20,6 +22,11 @@ leia(combustivel)
 
 consumo_medio <- distancia/combustivel
 Escreval("O consumo médio de gasolina foi de ", consumo_medio, "Km/L")
+
+escreval("Quanto reais você ainda tem?")
+leia(valor_dinheiro)
+valor_gasosa <- 8
+escreva("Com este dinheiro voce pode pôr ", valor_dinheiro/valor_gasosa,"L")
 
 
 Fimalgoritmo
