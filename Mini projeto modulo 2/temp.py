@@ -44,7 +44,7 @@ tela()
 print("\nAJUSTE OS PAREMETROS DO SISTEMA :\n")
 
 #qtd = int(input("Digite a quantidade de fucionários    : "))
-sma = int(c[0])
+sma = float(c[0])
 print("\n")
 folha = 0
 nvfolha = 0
@@ -61,7 +61,7 @@ tela()
 
 # mostra na tela o valor do salário atual
 
-print("\nLANÇAMENTOS DO SISTEMA       VALOR DO SALARIO ATUALMENTE     R$ {}\n".format(sma))
+print("\nLANÇAMENTOS DO SISTEMA       VALOR DO SALARIO ATUALMENTE     R$ {:.2f}\n".format(sma))
 
 #x: int
 
