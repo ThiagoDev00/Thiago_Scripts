@@ -3,15 +3,16 @@ RESUMO EM TXT DOS LANÇAMENTOS
 Nº  FUNCIONARIO             SALARIO  PORC          REAJUSTE  VLOR FINAL
 =======================================================================
 
-1 - thiago                  1000.00  50%            500.00      1500.00
-2 - firs                    9080.00  20%           1816.00     10896.00
+1 - Thiago                  1000.00  50%            500.00      1500.00
+2 - fraklin                 9000.00  20%           1800.00     10800.00
+3 - Maria fernanda         10000.00  20%           2000.00     12000.00
 
 RESUMO DE IMPACTO NA FOLHA DE PAGAMENTO 
 
 =======================================================================
 
-Valor da folha de pagamento.....: R$ 10.080,00
-Valor de Reajuste...............: R$ 2.316,00
-Valor da nova Folha de Pagamento: R$ 12.396,00
+Valor da folha de pagamento.....: R$ 20.000,00
+Valor de Reajuste...............: R$ 4.300,00
+Valor da nova Folha de Pagamento: R$ 24.300,00
 
 =======================================================================
